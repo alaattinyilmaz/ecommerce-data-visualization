@@ -1,5 +1,5 @@
 # ecommerce-data-visualization
-A force-directed graph visualization tool based on an online e-commerce website data by use of d3.js framework.
+A force-directed graph visualization tool based on an online e-commerce website data by use of d3.js library.
 
 Demo: https://alaattinyilmaz.github.io/ecommerce-tool/
 
