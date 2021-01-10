@@ -20,5 +20,5 @@ countries.
 #### Time Filter
 Another important feature of the developed tool is the ability of the filtering of people according to a timeline. Selecting an area of the timeline can allow in understanding which users made transactions and which products were purchased.
 
-### More details
+### More Details
 For more details please visit: docs/ecommerce-data-visualization-report.pdf
