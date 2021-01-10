@@ -6,7 +6,7 @@ Demo: https://alaattinyilmaz.github.io/ecommerce-tool/
 
 Grey Nodes: People, Blue nodes: Products, Pink Node: Center User to be analyzed, Red Nodes: The people which purchased that product!
 
-![image](https://user-images.githubusercontent.com/22120701/104111507-9a0ce900-52f3-11eb-9d72-ed03aa2ad8e1.png)
+![license](https://user-images.githubusercontent.com/22120701/104111507-9a0ce900-52f3-11eb-9d72-ed03aa2ad8e1.png)
 
 ### Dataset Description
 In this project, an online UK based retail web site data provided by UC Irvine Machine Learning Repository which has 541909 rows. This transnational dataset contains all user transactions on this web site since December 2010 to December 2011. All of these transactions are made across 4339 people and the number of products that is purchased is 3941. Dataset is [here](https://archive.ics.uci.edu/ml/datasets/online+retail).
