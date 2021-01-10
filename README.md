@@ -1,7 +1,7 @@
 # ecommerce-data-visualization
+![image](https://img.shields.io/github/license/alaattinyilmaz/ecommerce-data-visualization)
 A force-directed graph visualization tool based on an online e-commerce website data by use of d3.js library.
 
-![image](https://img.shields.io/github/license/alaattinyilmaz/ecommerce-data-visualization)
 Demo: https://alaattinyilmaz.github.io/ecommerce-tool/
 
 Grey Nodes: People, Blue nodes: Products, Pink Node: Center User to be analyzed, Red Nodes: The people which purchased that product!
