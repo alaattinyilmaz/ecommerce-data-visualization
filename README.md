@@ -3,7 +3,9 @@
 
 A force-directed graph visualization tool based on an online e-commerce website data by use of d3.js library.
 
-Demo: https://alaattinyilmaz.github.io/ecommerce-tool/
+Demo Video: https://youtu.be/QICxYayaNqI
+
+Live Demo: https://alaattinyilmaz.github.io/ecommerce-tool/
 
 Grey Nodes: People, Blue nodes: Products, Pink Node: Center User to be analyzed, Red Nodes: The people which purchased that product!
 
